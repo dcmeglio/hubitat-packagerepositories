@@ -4,6 +4,9 @@
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		}
-	]
+	],
+	"hpm": {
+		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
+	}
 	
 }
