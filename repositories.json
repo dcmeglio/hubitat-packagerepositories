@@ -3,6 +3,10 @@
 		{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
+		},
+		{
+			"name": "BPTWorld",
+			"location": "https://raw.githubusercontent.com/bptworld/Hubitat/master/repositories.json"
 		}
 	],
 	"hpm": {
