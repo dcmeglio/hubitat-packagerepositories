@@ -11,6 +11,10 @@
 		{
 			"name": "AaronW",
 			"location": "https://raw.githubusercontent.com/PrayerfulDrop/Hubitat/master/repository.json"
+		},
+		{
+			"name": "storageaanarchy (SANdood)",
+			"location": "https://raw.githubusercontent.com/SANdood/Hubitat-Stuff/master/repository.json"
 		}
 	],
 	"hpm": {
