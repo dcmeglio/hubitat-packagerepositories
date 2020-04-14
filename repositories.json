@@ -15,6 +15,10 @@
 		{
 			"name": "storageaanarchy (SANdood)",
 			"location": "https://raw.githubusercontent.com/SANdood/Hubitat-Stuff/master/repository.json"
+		},
+		{
+			"name": "RMoRobert (BertABCD1234)",
+			"location": "https://raw.githubusercontent.com/RMoRobert/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
