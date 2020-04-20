@@ -20,6 +20,9 @@
 			"name": "RMoRobert (BertABCD1234)",
 			"location": "https://raw.githubusercontent.com/RMoRobert/Hubitat/master/repository.json"
 		}
+		{	"name": "Dave Gutheinz(DavGut)",
+			"location": "https://raw.githubusercontent.com/DaveGut/HubitatActive/master/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
