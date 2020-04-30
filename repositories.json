@@ -29,6 +29,10 @@
 		{
 			"name": "Miles Budnek (@mbudnek)",
 			"location": "https://raw.githubusercontent.com/mbudnek/hubitat-package-manager-repo/master/repository.json"
+		},
+		{
+			"name": "Inovelli",
+			"location": "https://raw.githubusercontent.com/InovelliUSA/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
