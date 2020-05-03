@@ -33,6 +33,10 @@
 		{
 			"name": "Inovelli",
 			"location": "https://raw.githubusercontent.com/InovelliUSA/Hubitat/master/repository.json"
+		},
+		{
+			"name": "Joseph Kregloh",
+			"location": "https://raw.githubusercontent.com/funzie19/hubitat-solaredge/master/repositories.json"
 		}
 	],
 	"hpm": {
