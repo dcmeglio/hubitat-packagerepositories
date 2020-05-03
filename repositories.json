@@ -33,6 +33,10 @@
 		{
 			"name": "Inovelli",
 			"location": "https://raw.githubusercontent.com/InovelliUSA/Hubitat/master/repository.json"
+		},
+		{
+			"name": "Markus (@markus)",
+			"location": "https://raw.githubusercontent.com/markus-li/Hubitat/release/repository.json"
 		}
 	],
 	"hpm": {
