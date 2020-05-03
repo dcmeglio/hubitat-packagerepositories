@@ -33,6 +33,10 @@
 		{
 			"name": "Inovelli",
 			"location": "https://raw.githubusercontent.com/InovelliUSA/Hubitat/master/repository.json"
+		},
+		{
+			"name": "mircolino",
+			"location": "https://raw.githubusercontent.com/mircolino/ecowitt/master/repository.json"
 		}
 	],
 	"hpm": {
