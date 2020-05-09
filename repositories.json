@@ -45,6 +45,9 @@
     {
       "name": "mircolino",
 			"location": "https://raw.githubusercontent.com/mircolino/ecowitt/master/repository.json"
+    }, {
+	"name": "Anthony S. (tonesto7)",
+	    "location": "https://raw.githubusercontent.com/tonesto7/hubitat/master/repository.json"
     }
 	],
 	"hpm": {
