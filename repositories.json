@@ -55,6 +55,10 @@
 		{
 			"name": "Anthony S. (tonesto7)",
 			"location": "https://raw.githubusercontent.com/tonesto7/hubitat/master/repository.json"
+		},
+		{
+			"name": "MFornander",
+			"location": "https://raw.githubusercontent.com/MFornander/Hubitat/master/respository.json"
 		}
 	],
 	"hpm": {
