@@ -24,10 +24,12 @@
 			"name": "RMoRobert (BertABCD1234)",
 			"location": "https://raw.githubusercontent.com/RMoRobert/Hubitat/master/repository.json"
 		},
-		{	"name": "Dave Gutheinz(DavGut)",
+		{
+			"name": "Dave Gutheinz(DavGut)",
 			"location": "https://raw.githubusercontent.com/DaveGut/HubitatActive/master/repository.json"
 		},
-		{	"name": "Matthew (@scottma61)",
+		{
+			"name": "Matthew (@scottma61)",
 			"location": "https://raw.githubusercontent.com/Scottma61/Hubitat/master/docs/Matthew_repository.json"
 		},
 		{
@@ -55,12 +57,15 @@
 			"location": "https://raw.githubusercontent.com/tonesto7/hubitat/master/repository.json"
 		},
 		{
-			"name": "imnotbob",
+			"name": "MFornander",
+			"location": "https://raw.githubusercontent.com/MFornander/Hubitat/master/respository.json"
+		},
+    {
+      "name": "imnotbob",
 			"location": "https://raw.githubusercontent.com/imnotbob/webCoRE/hubitat-patches/HE/repository.json"
-		}
+    }
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
 	}
-	
 }
