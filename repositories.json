@@ -38,21 +38,26 @@
 			"name": "Inovelli",
 			"location": "https://raw.githubusercontent.com/InovelliUSA/Hubitat/master/repository.json"
 		},
-    {
-      "name": "Markus (@markus)",
+		{
+			"name": "Markus (@markus)",
 			"location": "https://raw.githubusercontent.com/markus-li/Hubitat/release/repository.json"
-    },
+		},
 		{
 			"name": "Joseph Kregloh",
 			"location": "https://raw.githubusercontent.com/funzie19/hubitat-solaredge/master/repositories.json"
 		},
-    {
-      "name": "mircolino",
+		{
+			"name": "mircolino",
 			"location": "https://raw.githubusercontent.com/mircolino/ecowitt/master/repository.json"
-    }, {
-	"name": "Anthony S. (tonesto7)",
-	    "location": "https://raw.githubusercontent.com/tonesto7/hubitat/master/repository.json"
-    }
+		},
+		{
+			"name": "Anthony S. (tonesto7)",
+			"location": "https://raw.githubusercontent.com/tonesto7/hubitat/master/repository.json"
+		},
+		{
+			"name": "imnotbob",
+			"location": "https://raw.githubusercontent.com/imnotbob/webCoRE/hubitat-patches/HE/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
