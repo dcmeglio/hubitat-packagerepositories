@@ -24,10 +24,12 @@
 			"name": "RMoRobert (BertABCD1234)",
 			"location": "https://raw.githubusercontent.com/RMoRobert/Hubitat/master/repository.json"
 		},
-		{	"name": "Dave Gutheinz(DavGut)",
+		{
+			"name": "Dave Gutheinz(DavGut)",
 			"location": "https://raw.githubusercontent.com/DaveGut/HubitatActive/master/repository.json"
 		},
-		{	"name": "Matthew (@scottma61)",
+		{
+			"name": "Matthew (@scottma61)",
 			"location": "https://raw.githubusercontent.com/Scottma61/Hubitat/master/docs/Matthew_repository.json"
 		},
 		{
@@ -38,24 +40,28 @@
 			"name": "Inovelli",
 			"location": "https://raw.githubusercontent.com/InovelliUSA/Hubitat/master/repository.json"
 		},
-    {
-      "name": "Markus (@markus)",
+		{
+			"name": "Markus (@markus)",
 			"location": "https://raw.githubusercontent.com/markus-li/Hubitat/release/repository.json"
-    },
+		},
 		{
 			"name": "Joseph Kregloh",
 			"location": "https://raw.githubusercontent.com/funzie19/hubitat-solaredge/master/repositories.json"
 		},
-    {
-      "name": "mircolino",
+		{
+			"name": "mircolino",
 			"location": "https://raw.githubusercontent.com/mircolino/ecowitt/master/repository.json"
-    }, {
-	"name": "Anthony S. (tonesto7)",
-	    "location": "https://raw.githubusercontent.com/tonesto7/hubitat/master/repository.json"
-    }
+		},
+		{
+			"name": "Anthony S. (tonesto7)",
+			"location": "https://raw.githubusercontent.com/tonesto7/hubitat/master/repository.json"
+		},
+		{
+			"name": "MFornander",
+			"location": "https://raw.githubusercontent.com/MFornander/Hubitat/master/respository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
 	}
-	
 }
