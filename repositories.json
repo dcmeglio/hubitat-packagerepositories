@@ -60,10 +60,14 @@
 			"name": "MFornander",
 			"location": "https://raw.githubusercontent.com/MFornander/Hubitat/master/respository.json"
 		},
-    {
-      "name": "imnotbob",
+		{
+			"name": "imnotbob",
 			"location": "https://raw.githubusercontent.com/imnotbob/webCoRE/hubitat-patches/HE/repository.json"
-    }
+		},
+		{
+			"name": "nh.schottfam",
+			"location": "https://raw.githubusercontent.com/imnotbob/Hubitat-Intesis/master/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
