@@ -71,6 +71,10 @@
 		{
 			"name": "apwelsh",
 			"location": "https://raw.githubusercontent.com/apwelsh/hubitat/master/repository.json"
+		},
+		{
+			"name": "bsileo",
+			"location": "https://raw.githubusercontent.com/bsileo/hubitat_poolcontroller/master/repository.json"
 		}
 	],
 	"hpm": {
