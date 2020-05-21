@@ -75,6 +75,10 @@
 		{
 			"name": "bsileo",
 			"location": "https://raw.githubusercontent.com/bsileo/hubitat_poolcontroller/master/repository.json"
+		},
+		{
+			"name": "brianwilson",
+			"location": "https://raw.githubusercontent.com/bdwilson/hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
