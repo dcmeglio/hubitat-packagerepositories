@@ -75,6 +75,10 @@
 		{
 			"name": "bsileo",
 			"location": "https://raw.githubusercontent.com/bsileo/hubitat_poolcontroller/master/repository.json"
+		},
+		{
+			"name": "napalmcsr",
+			"location": "https://raw.githubusercontent.com/napalmcsr/Hubitat_Napalmcsr/master/docs/HPM.json"
 		}
 	],
 	"hpm": {
