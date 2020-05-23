@@ -80,10 +80,14 @@
 			"name": "Brian Wilson (@brianwilson)", 
 			"location": "https://raw.githubusercontent.com/bdwilson/hubitat/master/repository.json"
 		},
-    {
-      "name": "napalmcsr",
+    		{
+      			"name": "napalmcsr",
 			"location": "https://raw.githubusercontent.com/napalmcsr/Hubitat_Napalmcsr/master/docs/HPM.json"
-    }
+    		},
+		{
+			"name": "thomas.c.howard",
+			"location": "https://raw.githubusercontent.com/tchoward/Hubitat/master/repository.json"
+		}
 		
 	],
 	"hpm": {
