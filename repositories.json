@@ -87,9 +87,12 @@
 		{
 			"name": "thomas.c.howard",
 			"location": "https://raw.githubusercontent.com/tchoward/Hubitat/master/repository.json"
+		},
+				{
+			"name": "Arn Burkhoff",
+			"location": "https://raw.githubusercontent.com/arnbme/nyckelharpa/master/repository.json"
 		}
-		
-	],
+			],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
 	}
