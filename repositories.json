@@ -100,6 +100,10 @@
 			"name": "dmike3",
 			"location": "https://raw.githubusercontent.com/dmike3/Hubitat/master/repository.json"
 		}
+		{
+			"name": "lnjustin",
+			"location": "https://raw.githubusercontent.com/lnjustin/Hubitat/master/repository.json"
+		}
 			],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
