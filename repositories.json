@@ -103,7 +103,11 @@
 		{
 			"name": "lnjustin",
 			"location": "https://raw.githubusercontent.com/lnjustin/Hubitat/master/repository.json"
-		}
+		},
+                {
+                    "name": "ardichoke",
+                    "location": "https://raw.githubusercontent.com/ardichoke/hubitat-repo/master/repository.json"
+                }
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
