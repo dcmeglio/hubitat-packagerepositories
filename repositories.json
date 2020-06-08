@@ -103,6 +103,10 @@
 		{
 			"name": "lnjustin",
 			"location": "https://raw.githubusercontent.com/lnjustin/Hubitat/master/repository.json"
+		},
+		{
+			"name": "christi999",
+			"location": "https://raw.githubusercontent.com/muchu999/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
