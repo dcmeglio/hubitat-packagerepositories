@@ -98,7 +98,7 @@
 		},
 		{
 			"name": "n3!"
-			"location": "https://raw.githubusercontent.com/dmike3/Hubitat/master/repository.json"
+			"location": "https://raw.githubusercontent.com/dmike3/Hubitat/master/hpm/repository.json"
 		}
 			],
 	"hpm": {
