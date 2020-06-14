@@ -104,20 +104,21 @@
 			"name": "lnjustin",
 			"location": "https://raw.githubusercontent.com/lnjustin/Hubitat/master/repository.json"
 		},
-    {
-      "name": "ardichoke",
-      "location": "https://raw.githubusercontent.com/ardichoke/hubitat-repo/master/repository.json"
-    },
-    {
+		{
+		  "name": "ardichoke",
+		  "location": "https://raw.githubusercontent.com/ardichoke/hubitat-repo/master/repository.json"
+		},
+		{
 			"name": "christi999",
 			"location": "https://raw.githubusercontent.com/muchu999/Hubitat/master/repository.json"
+		},
+		{
+		"name": "jrfarrar",
+		"location": "https://raw.githubusercontent.com/jrfarrar/hubitat/master/jrfarrar.json"
 		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
-	},
-	{
-		"name": "jrfarrar",
-		"location": "https://raw.githubusercontent.com/jrfarrar/hubitat/master/jrfarrar.json"
 	}
+
 }
