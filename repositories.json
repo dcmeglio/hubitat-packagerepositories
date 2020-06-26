@@ -115,6 +115,10 @@
 		{
 		"name": "jrfarrar",
 		"location": "https://raw.githubusercontent.com/jrfarrar/hubitat/master/jrfarrar.json"
+		},
+		{
+			"name": "mikec85",
+			"location": "https://raw.githubusercontent.com/mikec85/hubitatdrivers/master/repository.json"
 		}
 	],
 	"hpm": {
