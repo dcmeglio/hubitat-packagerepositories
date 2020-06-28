@@ -123,7 +123,11 @@
 		{
 			"name": "dennypage",
 			"location": "https://raw.githubusercontent.com/dennypage/hubitat/master/hpm/repository.json"
-		}
+		},
+		{
+			"name": "Rory Jaffe",
+			"location": "https://raw.githubusercontent.com/rsjaffe/Hubitat/master/repository.json"
+		}		
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
