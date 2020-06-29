@@ -123,6 +123,10 @@
 		{
 			"name": "dennypage",
 			"location": "https://raw.githubusercontent.com/dennypage/hubitat/master/hpm/repository.json"
+		},
+		{
+			"name": "Justin Walker (augoisms)",
+			"location": "https://raw.githubusercontent.com/augoisms/hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
