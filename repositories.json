@@ -133,9 +133,13 @@
 			"location": "https://raw.githubusercontent.com/augoisms/hubitat/master/repository.json"
 		},
 		{
+			"name": "Joel Wetzel",
+			"location": "https://raw.githubusercontent.com/joelwetzel/HubitatPackages/master/repository.json"
+		},
+		{
 			"name": "Kurt Sanders (kurtsanders)",
 			"location": "https://raw.githubusercontent.com/KurtSanders/STAmbientWeather/master/repository.json"
-		}
+		}	
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
