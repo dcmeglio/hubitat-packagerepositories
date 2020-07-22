@@ -116,7 +116,7 @@
 		"name": "jrfarrar",
 		"location": "https://raw.githubusercontent.com/jrfarrar/hubitat/master/jrfarrar.json"
 		},
-    {
+		{
 			"name": "mikec85",
 			"location": "https://raw.githubusercontent.com/mikec85/hubitatdrivers/master/repository.json"
 		},
@@ -124,7 +124,7 @@
 			"name": "dennypage",
 			"location": "https://raw.githubusercontent.com/dennypage/hubitat/master/hpm/repository.json"
 		},
-    {
+		{
 			"name": "Rory Jaffe",
 			"location": "https://raw.githubusercontent.com/rsjaffe/Hubitat/master/repository.json"
 		},		
@@ -139,7 +139,7 @@
 		{
 			"name": "Jo Rhett",
 			"location": "https://raw.githubusercontent.com/jorhett/Hubitat/master/repository.json"
-		}
+		},
 		{
 			"name": "craigde",
 			"location": "https://raw.githubusercontent.com/craigde/hubitat-package-manager/master/repository.json"
