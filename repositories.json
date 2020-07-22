@@ -138,7 +138,7 @@
 		},
 		{
 			"name": "Kurt Sanders (kurtsanders)",
-			"location": "https://raw.githubusercontent.com/KurtSanders/STAmbientWeather/master/repository.json"
+			"location": "https://raw.githubusercontent.com/KurtSanders/HubitatPackages/master/repository.json"
 		}	
 	],
 	"hpm": {
