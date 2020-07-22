@@ -140,6 +140,10 @@
 			"name": "Jo Rhett",
 			"location": "https://raw.githubusercontent.com/jorhett/Hubitat/master/repository.json"
 		}
+		{
+			"name": "craigde",
+			"location": "https://raw.githubusercontent.com/craigde/hubitat-package-manager/master/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
