@@ -77,18 +77,18 @@
 			"location": "https://raw.githubusercontent.com/bsileo/hubitat_poolcontroller/master/repository.json"
 		},
 		{
-			"name": "Brian Wilson (@brianwilson)", 
+			"name": "Brian Wilson (@brianwilson)",
 			"location": "https://raw.githubusercontent.com/bdwilson/hubitat/master/repository.json"
 		},
-    		{
-      			"name": "napalmcsr",
+		{
+			"name": "napalmcsr",
 			"location": "https://raw.githubusercontent.com/napalmcsr/Hubitat_Napalmcsr/master/docs/HPM.json"
-    		},
+		},
 		{
 			"name": "thomas.c.howard",
 			"location": "https://raw.githubusercontent.com/tchoward/Hubitat/master/repository.json"
 		},
-				{
+		{
 			"name": "Arn Burkhoff",
 			"location": "https://raw.githubusercontent.com/arnbme/nyckelharpa/master/repository.json"
 		},
@@ -105,16 +105,16 @@
 			"location": "https://raw.githubusercontent.com/lnjustin/Hubitat/master/repository.json"
 		},
 		{
-		  "name": "ardichoke",
-		  "location": "https://raw.githubusercontent.com/ardichoke/hubitat-repo/master/repository.json"
+			"name": "ardichoke",
+			"location": "https://raw.githubusercontent.com/ardichoke/hubitat-repo/master/repository.json"
 		},
 		{
 			"name": "christi999",
 			"location": "https://raw.githubusercontent.com/muchu999/Hubitat/master/repository.json"
 		},
 		{
-		"name": "jrfarrar",
-		"location": "https://raw.githubusercontent.com/jrfarrar/hubitat/master/jrfarrar.json"
+			"name": "jrfarrar",
+			"location": "https://raw.githubusercontent.com/jrfarrar/hubitat/master/jrfarrar.json"
 		},
 		{
 			"name": "mikec85",
@@ -127,16 +127,20 @@
 		{
 			"name": "Rory Jaffe",
 			"location": "https://raw.githubusercontent.com/rsjaffe/Hubitat/master/repository.json"
-		},		
+		},
 		{
 			"name": "Justin Walker (augoisms)",
 			"location": "https://raw.githubusercontent.com/augoisms/hubitat/master/repository.json"
-		},		
+		},
 		{
 			"name": "Joel Wetzel",
 			"location": "https://raw.githubusercontent.com/joelwetzel/HubitatPackages/master/repository.json"
 		},
 		{
+			"name": "Kurt Sanders (kurtsanders)",
+			"location": "https://raw.githubusercontent.com/KurtSanders/HubitatPackages/master/repository.json"
+		},	
+    {
 			"name": "Jo Rhett",
 			"location": "https://raw.githubusercontent.com/jorhett/Hubitat/master/repository.json"
 		},
