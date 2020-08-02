@@ -147,6 +147,10 @@
 		{
 			"name": "craigde",
 			"location": "https://raw.githubusercontent.com/craigde/hubitat-package-manager/master/repository.json"
+		},
+		{
+			"name": "Russ Vrolyk",
+			"location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
