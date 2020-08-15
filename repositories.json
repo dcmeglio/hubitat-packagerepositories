@@ -151,6 +151,10 @@
 		{
 			"name": "Russ Vrolyk",
 			"location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/repository.json"
+		},
+		{
+			"name": "dan.t",
+			"location": "https://raw.githubusercontent.com/danTapps/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
