@@ -140,7 +140,7 @@
 			"name": "Kurt Sanders (kurtsanders)",
 			"location": "https://raw.githubusercontent.com/KurtSanders/HubitatPackages/master/repository.json"
 		},	
-    {
+    		{
 			"name": "Jo Rhett",
 			"location": "https://raw.githubusercontent.com/jorhett/Hubitat/master/repository.json"
 		},
@@ -151,6 +151,10 @@
 		{
 			"name": "Russ Vrolyk",
 			"location": "https://raw.githubusercontent.com/rvrolyk/Hubitat/master/repository.json"
+		},
+		{
+			"name": "Reid Baldwin",
+			"location": "https://raw.githubusercontent.com/rbaldwi3/HVAC/master/HVACZoneRepository.json"
 		}
 	],
 	"hpm": {
