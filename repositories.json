@@ -155,6 +155,10 @@
 		{
 			"name": "Reid Baldwin",
 			"location": "https://raw.githubusercontent.com/rbaldwi3/HVAC/master/HVACZoneRepository.json"
+		},
+		{
+			"name": "Chris Sader (chris.sader)",
+			"location": "https://raw.githubusercontent.com/csader/hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
