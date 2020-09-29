@@ -159,6 +159,10 @@
 		{
 			"name": "Chris Sader (chris.sader)",
 			"location": "https://raw.githubusercontent.com/csader/hubitat/master/repository.json"
+		},
+		{
+			"name": "mbarone",
+			"location": "https://raw.githubusercontent.com/michaelbarone/hubitat/master/packagemanager/repository.json"
 		}
 	],
 	"hpm": {
