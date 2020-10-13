@@ -171,6 +171,10 @@
 		{
 			"name": "SRWhite",
 			"location": "http://hubconnect.hubitatcommunity.com/HPM/HubConnectManifest.json"
+		},
+		{
+			"name": "dkilgore90",
+			"location": "https://raw.githubusercontent.com/dkilgore90/hpm-repo/master/repository.json"
 		}
 	],
 	"hpm": {
