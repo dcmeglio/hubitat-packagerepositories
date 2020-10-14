@@ -169,6 +169,10 @@
 			"location": "https://raw.githubusercontent.com/csteele-PD/Hubitat-public/master/repo.json"
 		},
 		{
+			"name": "jedbro",
+			"location": "https://raw.githubusercontent.com/jedbro/Hubitat-Projects/main/repositories.json"
+		},
+		{
 			"name": "SRWhite",
 			"location": "http://hubconnect.hubitatcommunity.com/HPM/HubConnectManifest.json"
 		},
