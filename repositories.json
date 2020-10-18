@@ -180,6 +180,10 @@
 			"name": "dkilgore90",
 			"location": "https://raw.githubusercontent.com/dkilgore90/hpm-repo/master/repository.json"
 		},
+    {
+      "name": "Eliot Stocker",
+			"location": "https://raw.githubusercontent.com/eliotstocker/hubitat-packages/main/repositories.json"
+    },
 		{
 			"name": "tomw",
 			"location": "https://raw.githubusercontent.com/tomwpublic/hpm/main/repository.json"
