@@ -139,8 +139,8 @@
 		{
 			"name": "Kurt Sanders (kurtsanders)",
 			"location": "https://raw.githubusercontent.com/KurtSanders/HubitatPackages/master/repository.json"
-		},	
-    		{
+		},
+		{
 			"name": "Jo Rhett",
 			"location": "https://raw.githubusercontent.com/jorhett/Hubitat/master/repository.json"
 		},
@@ -180,21 +180,24 @@
 			"name": "dkilgore90",
 			"location": "https://raw.githubusercontent.com/dkilgore90/hpm-repo/master/repository.json"
 		},
-    		{
-     			 "name": "Eliot Stocker",
+		{
+			"name": "Eliot Stocker",
 			"location": "https://raw.githubusercontent.com/eliotstocker/hubitat-packages/main/repositories.json"
-    		},
+		},
 		{
 			"name": "tomw",
 			"location": "https://raw.githubusercontent.com/tomwpublic/hpm/main/repository.json"
-		},		
+		},
 		{
 			"name": "LGKApps kahn@lgk.com lgkahn-hubitat",
 			"location": "https://raw.githubusercontent.com/lgkahn/hubitat/master/LGKrepository.json"
+		},
+		{
+			"name": "syepes",
+			"location": "https://raw.githubusercontent.com/syepes/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
 	}
-
 }
