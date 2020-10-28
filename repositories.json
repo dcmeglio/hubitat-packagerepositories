@@ -195,7 +195,11 @@
 		{
 			"name": "syepes",
 			"location": "https://raw.githubusercontent.com/syepes/Hubitat/master/repository.json"
-		}
+		},
+		{
+			"name": "Botched1",
+			"location": "https://raw.githubusercontent.com/Botched1/Hubitat/master/packages/repository.json"
+		}		
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
