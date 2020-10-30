@@ -199,7 +199,11 @@
 		{
 			"name": "Botched1",
 			"location": "https://raw.githubusercontent.com/Botched1/Hubitat/master/packages/repository.json"
-		}		
+		},
+		{
+			"name": "Hubitat Powerley",
+			"location": "https://raw.githubusercontent.com/bcastellucci/hubitat/main/powerley/packageManifest.json"
+		}	
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
