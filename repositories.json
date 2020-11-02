@@ -203,7 +203,11 @@
 		{
 			"name": "bchubitat",
 			"location": "https://raw.githubusercontent.com/bcastellucci/hubitat/main/repository.json"
-		}	
+		},
+		{
+			"name": "cjcharles0",
+			"location": "https://raw.githubusercontent.com/cjcharles0/Hubitat/master/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
