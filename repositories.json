@@ -211,6 +211,10 @@
     {
 			"name": "Ernie Miller (@ernie)",
 			"location": "https://raw.githubusercontent.com/ernie/hubitat/main/repository.json"
+		},
+		{
+			"name": "Dale Coghlan (@dcoghlan)",
+			"location": "https://raw.githubusercontent.com/dcoghlan/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
