@@ -215,6 +215,10 @@
 		{
 			"name": "Dale Coghlan (@dcoghlan)",
 			"location": "https://raw.githubusercontent.com/dcoghlan/hubitat/main/repository.json"
+		},
+		{
+			"name": "Taylor Brown (@thecloudtaylor)",
+			"location": "https://github.com/thecloudtaylor/hubitat-packages/blob/main/repository.json"
 		}
 	],
 	"hpm": {
