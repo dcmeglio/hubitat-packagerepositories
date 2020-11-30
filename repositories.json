@@ -215,6 +215,10 @@
 		{
 			"name": "Dale Coghlan (@dcoghlan)",
 			"location": "https://raw.githubusercontent.com/dcoghlan/hubitat/main/repository.json"
+		},
+		{
+			"name": "TonyFleisher",
+			"location": "https://raw.githubusercontent.com/TonyFleisher/tonyfleisher-hubitat/beta/repository.json"
 		}
 	],
 	"hpm": {
