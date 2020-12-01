@@ -207,14 +207,18 @@
 		{
 			"name": "cjcharles0",
 			"location": "https://raw.githubusercontent.com/cjcharles0/Hubitat/master/repository.json"
-    },
-    {
+		},
+		{
 			"name": "Ernie Miller (@ernie)",
 			"location": "https://raw.githubusercontent.com/ernie/hubitat/main/repository.json"
 		},
 		{
 			"name": "Dale Coghlan (@dcoghlan)",
 			"location": "https://raw.githubusercontent.com/dcoghlan/hubitat/main/repository.json"
+		},
+		{
+			"name": "Nelson Clark",
+			"location": "https://raw.githubusercontent.com/NelsonClark/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
