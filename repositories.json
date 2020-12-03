@@ -227,7 +227,11 @@
     {
 			"name": "Nelson Clark",
 			"location": "https://raw.githubusercontent.com/NelsonClark/Hubitat/main/repository.json"
-    }
+    },
+    {
+      "name": "Taylor Brown (@thecloudtaylor)",
+			"location": "https://raw.githubusercontent.com/thecloudtaylor/hubitat-packages/main/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
