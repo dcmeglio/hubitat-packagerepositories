@@ -219,6 +219,10 @@
 		{
 			"name": "tagyoureit",
 			"location": "https://raw.githubusercontent.com/tagyoureit/hubitat-luxor/master/repository.json"	
+    },
+    {
+			"name": "TonyFleisher",
+			"location": "https://raw.githubusercontent.com/TonyFleisher/tonyfleisher-hubitat/beta/repository.json"
 		}
 	],
 	"hpm": {
