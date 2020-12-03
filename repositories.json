@@ -207,8 +207,8 @@
 		{
 			"name": "cjcharles0",
 			"location": "https://raw.githubusercontent.com/cjcharles0/Hubitat/master/repository.json"
-    },
-    {
+    		},
+    		{
 			"name": "Ernie Miller (@ernie)",
 			"location": "https://raw.githubusercontent.com/ernie/hubitat/main/repository.json"
 		},
@@ -217,6 +217,10 @@
 			"location": "https://raw.githubusercontent.com/dcoghlan/hubitat/main/repository.json"
 		},
 		{
+			"name": "tagyoureit",
+			"location": "https://raw.githubusercontent.com/tagyoureit/hubitat-luxor/master/repository.json"	
+    },
+    {
 			"name": "TonyFleisher",
 			"location": "https://raw.githubusercontent.com/TonyFleisher/tonyfleisher-hubitat/beta/repository.json"
 		}
