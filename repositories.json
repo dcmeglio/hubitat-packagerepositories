@@ -218,7 +218,7 @@
 		},
 		{
 			"name": "Taylor Brown (@thecloudtaylor)",
-			"location": "https://github.com/thecloudtaylor/hubitat-packages/blob/main/repository.json"
+			"location": "https://raw.githubusercontent.com/thecloudtaylor/hubitat-packages/main/repository.json"
 		}
 	],
 	"hpm": {
