@@ -209,6 +209,10 @@
 			"location": "https://raw.githubusercontent.com/cjcharles0/Hubitat/master/repository.json"
 		},
 		{
+			"name": "ajones",
+			"location": "https://raw.githubusercontent.com/jonesalexr/hubitat/master/repository.json"
+		},
+		{
 			"name": "Ernie Miller (@ernie)",
 			"location": "https://raw.githubusercontent.com/ernie/hubitat/main/repository.json"
 		},
