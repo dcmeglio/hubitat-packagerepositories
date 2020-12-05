@@ -239,7 +239,11 @@
     		{
       			"name": "Rangner FG (@rfg81)",
 			"location": "https://raw.githubusercontent.com/claudegel/Hubitat-sinope-GT125/main/repository.json"
-		}
+		    },
+            {
+                "name": "ZRanger1",
+                "location": "https://raw.githubusercontent.com/zranger1/hubitat-repositories/main/repository.json"
+            }
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
