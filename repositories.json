@@ -219,18 +219,22 @@
 		{
 			"name": "tagyoureit",
 			"location": "https://raw.githubusercontent.com/tagyoureit/hubitat-luxor/master/repository.json"	
-    },
-    {
+    		},
+    		{
 			"name": "TonyFleisher",
 			"location": "https://raw.githubusercontent.com/TonyFleisher/tonyfleisher-hubitat/beta/repository.json"
 		},
-    {
+    		{
 			"name": "Nelson Clark",
 			"location": "https://raw.githubusercontent.com/NelsonClark/Hubitat/main/repository.json"
-    },
-    {
-      "name": "Taylor Brown (@thecloudtaylor)",
+    		},
+    		{
+      			"name": "Taylor Brown (@thecloudtaylor)",
 			"location": "https://raw.githubusercontent.com/thecloudtaylor/hubitat-packages/main/repository.json"
+    		},
+    		{
+      			"name": "Rangner FG (@rfg81)",
+			"location": "https://raw.githubusercontent.com/claudegel/Hubitat-sinope-GT125/main/repository.json"
 		}
 	],
 	"hpm": {
