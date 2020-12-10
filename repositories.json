@@ -1,6 +1,5 @@
 {
-	"repositories": [
-		{
+	"repositories": [{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},
@@ -222,28 +221,32 @@
 		},
 		{
 			"name": "tagyoureit",
-			"location": "https://raw.githubusercontent.com/tagyoureit/hubitat-luxor/master/repository.json"	
-    		},
-    		{
+			"location": "https://raw.githubusercontent.com/tagyoureit/hubitat-luxor/master/repository.json"
+		},
+		{
 			"name": "TonyFleisher",
 			"location": "https://raw.githubusercontent.com/TonyFleisher/tonyfleisher-hubitat/beta/repository.json"
 		},
-    		{
+		{
 			"name": "Nelson Clark",
 			"location": "https://raw.githubusercontent.com/NelsonClark/Hubitat/main/repository.json"
-    		},
-    		{
-      			"name": "Taylor Brown (@thecloudtaylor)",
+		},
+		{
+			"name": "Taylor Brown (@thecloudtaylor)",
 			"location": "https://raw.githubusercontent.com/thecloudtaylor/hubitat-packages/main/repository.json"
-    		},
-    		{
-      			"name": "Rangner FG (@rfg81)",
+		},
+		{
+			"name": "Rangner FG (@rfg81)",
 			"location": "https://raw.githubusercontent.com/claudegel/Hubitat-sinope-GT125/main/repository.json"
-		    },
-            {
-                "name": "ZRanger1",
-                "location": "https://raw.githubusercontent.com/zranger1/hubitat-repositories/main/repository.json"
-            }
+		},
+		{
+			"name": "ZRanger1",
+			"location": "https://raw.githubusercontent.com/zranger1/hubitat-repositories/main/repository.json"
+		},
+		{
+			"name": "John Callahan (@johndc7)",
+			"location": "https://raw.githubusercontent.com/johndc7/Hubitat/main/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
