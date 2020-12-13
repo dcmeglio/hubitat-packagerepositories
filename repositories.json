@@ -246,6 +246,10 @@
 		{
 			"name": "John Callahan (@johndc7)",
 			"location": "https://raw.githubusercontent.com/johndc7/Hubitat/main/repository.json"
+		},
+		{
+			"name": "Jeff Page (@jtp10181)",
+			"location": "https://raw.githubusercontent.com/jtp10181/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
