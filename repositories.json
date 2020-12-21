@@ -250,6 +250,10 @@
 		{
 			"name": "Jeff Page (@jtp10181)",
 			"location": "https://raw.githubusercontent.com/jtp10181/Hubitat/main/repository.json"
+		},
+		{
+			"name": "BirdsLikeWires (@birdslikewires)",
+			"location": "https://raw.githubusercontent.com/birdslikewires/hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
