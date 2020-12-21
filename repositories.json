@@ -250,6 +250,10 @@
 		{
 			"name": "Jeff Page (@jtp10181)",
 			"location": "https://raw.githubusercontent.com/jtp10181/Hubitat/main/repository.json"
+		},
+		{
+			"name": "viertaxa",
+			"location": "https://raw.githubusercontent.com/viertaxa/hubitat/main/.hpm/repository.json"
 		}
 	],
 	"hpm": {
