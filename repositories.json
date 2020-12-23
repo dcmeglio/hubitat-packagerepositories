@@ -254,6 +254,10 @@
 		{
 			"name": "viertaxa",
 			"location": "https://raw.githubusercontent.com/viertaxa/hubitat/main/.hpm/repository.json"
+		},
+		{
+			"name": "BirdsLikeWires (@birdslikewires)",
+			"location": "https://raw.githubusercontent.com/birdslikewires/hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
