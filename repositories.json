@@ -258,6 +258,10 @@
 		{
 			"name": "BirdsLikeWires (@birdslikewires)",
 			"location": "https://raw.githubusercontent.com/birdslikewires/hubitat/master/repository.json"
+		},
+		{
+			"name": "JVM (@jvm33)",
+			"location": "https://raw.githubusercontent.com/jvmahon/HubitatCustom/main/repository.json"
 		}
 	],
 	"hpm": {
