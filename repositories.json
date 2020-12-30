@@ -262,6 +262,10 @@
 		{
 			"name": "Doug Renze (@darthbob)",
 			"location": "https://raw.githubusercontent.com/drenze/hubitat/main/repository.json"
+    },
+    {
+			"name": "JVM (@jvm33)",
+			"location": "https://raw.githubusercontent.com/jvmahon/HubitatCustom/main/repository.json"
 		}
 	],
 	"hpm": {
