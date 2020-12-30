@@ -258,6 +258,10 @@
 		{
 			"name": "BirdsLikeWires (@birdslikewires)",
 			"location": "https://raw.githubusercontent.com/birdslikewires/hubitat/master/repository.json"
+		},
+		{
+			"name": "Doug Renze (@darthbob)",
+			"location": "https://raw.githubusercontent.com/drenze/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
