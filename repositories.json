@@ -272,6 +272,10 @@
 			"location": "https://raw.githubusercontent.com/jvmahon/HubitatCustom/main/repository.json"
 		},
 		{
+			"name": "akhandok",
+			"location": "https://raw.githubusercontent.com/akhandok/adhanPlayer/master/repository.json"
+		},
+		{
 			"name": "Amos Yuen",
 			"location": "https://raw.githubusercontent.com/amosyuen/hubitat/main/repository.json"
 		}
