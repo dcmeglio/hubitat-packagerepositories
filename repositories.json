@@ -290,6 +290,10 @@
 		{
 			"name": "Neil Jackson",
 			"location": "https://raw.githubusercontent.com/neiljackson1984/SmartThingsNeil/master/hubitat_package_manager_repository.json"
+		},
+		{
+			"name": "Rob Heyes",
+			"location": "https://raw.githubusercontent.com/robheyes/hpm-packages/master/repository.json"
 		}
 	],
 	"hpm": {
