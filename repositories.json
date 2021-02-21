@@ -294,6 +294,10 @@
 		{
 			"name": "Rob Heyes",
 			"location": "https://raw.githubusercontent.com/robheyes/hpm-packages/master/repository.json"
+		},
+		{
+			"name": "benevolent",
+			"location": "https://github.com/serenewaffles/hubitat/blob/main/repository.json"
 		}
 	],
 	"hpm": {
