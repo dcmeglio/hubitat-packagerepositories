@@ -294,6 +294,10 @@
 		{
 			"name": "Rob Heyes",
 			"location": "https://raw.githubusercontent.com/robheyes/hpm-packages/master/repository.json"
+		},
+		{
+			"name": "MHedish",
+			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
