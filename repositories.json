@@ -299,10 +299,10 @@
 			"name": "MHedish",
 			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
 		},
-    {
-      "name": "benevolent",
-			"location": "https://github.com/serenewaffles/hubitat/blob/main/repository.json"
-    }
+                {
+                        "name": "benevolent",
+			"location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/repository.json"
+                }
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
