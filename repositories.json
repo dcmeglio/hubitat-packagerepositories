@@ -302,6 +302,10 @@
                 {
                         "name": "benevolent",
 			"location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/repository.json"
+                },
+                {
+                    	"name": "ymerj",
+                    	"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
                 }
 	],
 	"hpm": {
