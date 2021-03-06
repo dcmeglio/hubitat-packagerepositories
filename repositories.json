@@ -299,14 +299,18 @@
 			"name": "MHedish",
 			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
 		},
-                {
-                        "name": "benevolent",
+    {
+      "name": "benevolent",
 			"location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/repository.json"
-                },
-                {
-                    	"name": "ymerj",
-                    	"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
-                }
+    },
+    {
+      "name": "ymerj",
+      "location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
+    },
+    { 
+      "name": "Jean P. May, Jr.",
+      "location": "https://raw.githubusercontent.com/thebearmay/hubitat/main/thebearmayRepository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
