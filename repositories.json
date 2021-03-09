@@ -299,6 +299,11 @@
 			"name": "MHedish",
 			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
 		},
+		{
+			"name": "droath",
+			"location": "https://raw.githubusercontent.com/droath/Hubitat/master/repository.json"
+		},
+				 
     	{
       		"name": "benevolent",
 			"location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/repository.json"
