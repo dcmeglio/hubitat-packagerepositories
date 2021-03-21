@@ -195,10 +195,7 @@
 			"name": "LGKApps kahn@lgk.com lgkahn-hubitat",
 			"location": "https://raw.githubusercontent.com/lgkahn/hubitat/master/LGKrepository.json"
 		},
-		{
-			"name": "Sebastian YEPES (syepes)",
-			"location": "https://raw.githubusercontent.com/syepes/Hubitat/master/repository.json"
-		},
+
 		{
 			"name": "Botched1",
 			"location": "https://raw.githubusercontent.com/Botched1/Hubitat/master/packages/repository.json"
