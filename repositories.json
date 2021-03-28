@@ -311,6 +311,10 @@
 		{
 			"name": "Michael van Dam",
 			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json" 
+		},
+		{
+			"name": "Vincent van Didden (@Vincentiano)",
+			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
 		}
 	],
 	"hpm": {
