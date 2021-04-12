@@ -311,6 +311,10 @@
 		{
 			"name": "Michael van Dam",
 			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json" 
+		},
+		{
+			"name": "Awth Wathje",
+			"location": "https://raw.githubusercontent.com/awthwathje/hubitat-heatit-z-push-button-8-driver/main/repository.json"
 		}
 	],
 	"hpm": {
