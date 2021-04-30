@@ -316,6 +316,10 @@
 		{
 			"name": "Michael van Dam",
 			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json" 
+		},
+		{
+			"name": "Snell",
+			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json" 
 		}
 	],
 	"hpm": {
