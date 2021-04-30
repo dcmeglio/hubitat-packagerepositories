@@ -296,6 +296,11 @@
 			"name": "MHedish",
 			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
 		},
+		{
+			"name": "droath",
+			"location": "https://raw.githubusercontent.com/droath/Hubitat/master/repository.json"
+		},
+				 
     	{
       		"name": "benevolent",
 			"location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/repository.json"
@@ -313,9 +318,13 @@
 			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json" 
 		},
 		{
+			"name": "Snell",
+			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json" 
+		},
+    {
 			"name": "Vincent van Didden (@Vincentiano)",
 			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
-		}
+    }
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
