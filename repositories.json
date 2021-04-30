@@ -320,7 +320,11 @@
 		{
 			"name": "Snell",
 			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json" 
-		}
+		},
+    {
+			"name": "Vincent van Didden (@Vincentiano)",
+			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
+    }
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
