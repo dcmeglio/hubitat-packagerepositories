@@ -328,6 +328,10 @@
     {
 			"name": "Awth Wathje",
 			"location": "https://raw.githubusercontent.com/awthwathje/hubitat-heatit-z-push-button-8-driver/main/repository.json"
+		},
+		{
+			"name": "ritchierich",
+			"location": "https://raw.githubusercontent.com/mlritchie/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {
