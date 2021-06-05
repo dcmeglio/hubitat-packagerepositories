@@ -321,18 +321,23 @@
 			"name": "Snell",
 			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json" 
 		},
-    {
+    		{
 			"name": "Vincent van Didden (@Vincentiano)",
 			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
-    },
-    {
+    		},
+   		 {
 			"name": "Awth Wathje",
 			"location": "https://raw.githubusercontent.com/awthwathje/hubitat-heatit-z-push-button-8-driver/main/repository.json"
 		},
 		{
 			"name": "ritchierich",
 			"location": "https://raw.githubusercontent.com/mlritchie/Hubitat/master/repository.json"
+		},
+		{
+			"name": "rob121",
+			"location": "https://raw.githubusercontent.com/rob121/hubitat/master/repository.json"
 		}
+			 
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
