@@ -336,6 +336,10 @@
 		{
 			"name": "rob121",
 			"location": "https://raw.githubusercontent.com/rob121/hubitat/master/repository.json"
+		},
+		{
+			"name": "Simon Burke (sburke781)",
+			"location": "https://raw.githubusercontent.com/sburke781/hubitat/master/repository.json"
 		}
 			 
 	],
