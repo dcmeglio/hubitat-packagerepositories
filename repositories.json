@@ -340,8 +340,11 @@
 		{
 			"name": "Simon Burke (sburke781)",
 			"location": "https://raw.githubusercontent.com/sburke781/hubitat/master/repository.json"
-		}
-			 
+		},
+		{
+			"name": "Minoston (sky-nie)",
+			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/master/repository.json"
+		}	 
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
