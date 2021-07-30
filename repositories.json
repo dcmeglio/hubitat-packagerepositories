@@ -344,7 +344,11 @@
 		{
 			"name": "Minoston (sky-nie)",
 			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/master/repository.json"
-		}	 
+		},
+		{
+			"name": "Scott Barton (sab0276)",
+			"location": "https://raw.githubusercontent.com/sab0276/Hubitat/main/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
