@@ -344,7 +344,11 @@
 		{
 			"name": "Minoston (sky-nie)",
 			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/master/repository.json"
-		}	 
+		},
+		{
+		 	"name": "David Manuel (dacmanj)",
+			"location": "https://raw.githubusercontent.com/dacmanj/hubitat/main/repository.json
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
