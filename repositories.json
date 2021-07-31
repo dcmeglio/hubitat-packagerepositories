@@ -347,7 +347,11 @@
 		},
 		{
 		 	"name": "David Manuel (dacmanj)",
-			"location": "https://raw.githubusercontent.com/dacmanj/hubitat/main/repository.json
+			"location": "https://raw.githubusercontent.com/dacmanj/hubitat/main/repository.json"
+    }, 
+    {
+			"name": "Scott Barton (sab0276)",
+			"location": "https://raw.githubusercontent.com/sab0276/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
