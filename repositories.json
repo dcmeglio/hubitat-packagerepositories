@@ -4,6 +4,10 @@
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},
 		{
+			"name": "Ramdev Shallem",
+			"location": "https://raw.githubusercontent.com/gilshallem/Hubitat/main/HPM/repositories.json"
+		},
+		{
 			"name": "BPTWorld",
 			"location": "https://raw.githubusercontent.com/bptworld/Hubitat/master/repositories.json"
 		},
