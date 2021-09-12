@@ -360,7 +360,12 @@
 		{
 			"name": "Daniel Segall (dds82)",
 			"location": "https://raw.githubusercontent.com/dds82/hpm-master-manifest/main/repository.json"
-		}
+		},
+		{
+			"name": "kaimyn",
+			"location": "https://raw.githubusercontent.com/kaimyn/Hubitat/main/repository.json"
+		}	 
+		
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
