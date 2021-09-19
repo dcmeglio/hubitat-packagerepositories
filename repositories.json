@@ -4,6 +4,10 @@
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},
 		{
+			"name": "Victor Santana (Welasco)",
+			"location": "https://raw.githubusercontent.com/Welasco/hubitat/master/repository.json"
+		},		
+		{
 			"name": "Ramdev Shallem",
 			"location": "https://raw.githubusercontent.com/gilshallem/Hubitat/main/HPM/repositories.json"
 		},
