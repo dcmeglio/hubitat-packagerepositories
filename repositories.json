@@ -360,6 +360,10 @@
 		{
 			"name": "Daniel Segall (dds82)",
 			"location": "https://raw.githubusercontent.com/dds82/hpm-master-manifest/main/repository.json"
+		},
+		{
+			"name": "Don Caton (dcaton)",
+			"location": "https://raw.githubusercontent.com/dcaton/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
