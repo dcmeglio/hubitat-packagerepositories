@@ -217,6 +217,10 @@
 			"location": "https://raw.githubusercontent.com/jonesalexr/hubitat/master/repository.json"
 		},
 		{
+			"name": "dbadge",
+			"location": "https://raw.githubusercontent.com/Gelix/HubitatTailwind/main/repository.json"
+		},
+		{
 			"name": "Ernie Miller (@ernie)",
 			"location": "https://raw.githubusercontent.com/ernie/hubitat/main/repository.json"
 		},
