@@ -4,6 +4,10 @@
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},
 		{
+			"name": "Victor Santana (Welasco)",
+			"location": "https://raw.githubusercontent.com/Welasco/hubitat/master/repository.json"
+		},		
+		{
 			"name": "Ramdev Shallem",
 			"location": "https://raw.githubusercontent.com/gilshallem/Hubitat/main/HPM/repositories.json"
 		},
@@ -217,6 +221,10 @@
 			"location": "https://raw.githubusercontent.com/jonesalexr/hubitat/master/repository.json"
 		},
 		{
+			"name": "dbadge",
+			"location": "https://raw.githubusercontent.com/Gelix/HubitatTailwind/main/repository.json"
+		},
+		{
 			"name": "Ernie Miller (@ernie)",
 			"location": "https://raw.githubusercontent.com/ernie/hubitat/main/repository.json"
 		},
@@ -364,7 +372,11 @@
 		{
 			"name": "Don Caton (dcaton)",
 			"location": "https://raw.githubusercontent.com/dcaton/Hubitat/main/repository.json"
-		}
+		},
+     {
+			"name": "kaimyn",
+			"location": "https://raw.githubusercontent.com/kaimyn/Hubitat/main/repository.json"
+		}	 
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
