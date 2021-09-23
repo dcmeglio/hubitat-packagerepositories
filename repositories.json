@@ -376,6 +376,14 @@
      {
 			"name": "kaimyn",
 			"location": "https://raw.githubusercontent.com/kaimyn/Hubitat/main/repository.json"
+		},
+		{
+			"name": "EVALOGIK (sky-nie)",
+			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/master/repository_EVALOGIK.json"
+		},	 
+		{
+			"name": "NEW ONE (sky-nie)",
+			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/master/repository_NEW_ONE.json"
 		}	 
 	],
 	"hpm": {
