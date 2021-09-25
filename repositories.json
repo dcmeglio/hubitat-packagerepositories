@@ -376,7 +376,11 @@
      {
 			"name": "kaimyn",
 			"location": "https://raw.githubusercontent.com/kaimyn/Hubitat/main/repository.json"
-		}	 
+		},	 
+		{
+			"name": "Ben Deitch (@xap)",
+			"location": "https://raw.githubusercontent.com/xap-code/hubitat/master/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
