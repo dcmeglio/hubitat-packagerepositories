@@ -376,6 +376,10 @@
 		{
 			"name": "Ben Deitch (@xap)",
 			"location": "https://raw.githubusercontent.com/xap-code/hubitat/master/repository.json"
+		},	 
+		{
+			"name": "James Shimota (Shumo)",
+			"location": "https://raw.githubusercontent.com/jshimota01/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
