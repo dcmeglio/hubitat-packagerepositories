@@ -380,6 +380,10 @@
 			 {
 			"name": "Community Code",
 			"location": "http://hpm.hubitatcommunity.com/communityrepo.json"
+		},	 
+		{
+			"name": "James Shimota (Shumo)",
+			"location": "https://raw.githubusercontent.com/jshimota01/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
