@@ -388,6 +388,10 @@
 		{
 			"name": "Jake Lehner",
 			"location": "https://raw.githubusercontent.com/jakelehner/Hubitat/master/repositories.json"
+		},
+		{
+			"name": "kkossev",
+			"location": "https://raw.githubusercontent.com/kkossev/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
