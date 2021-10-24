@@ -392,6 +392,10 @@
 		{
 			"name": "Eduardo Simioni",
 			"location": "https://raw.githubusercontent.com/esimioni/lutron-aurora-hubitat/main/hpm/repository.json"
+    },
+    {
+			"name": "kkossev",
+			"location": "https://raw.githubusercontent.com/kkossev/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {
