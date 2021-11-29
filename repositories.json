@@ -400,7 +400,11 @@
     {
 			"name": "kkossev",
 			"location": "https://raw.githubusercontent.com/kkossev/Hubitat/main/repository.json"
-		}
+		},
+		{
+			"name": "Rangner Ferraz Guimaraes",
+			"location": "https://raw.githubusercontent.com/rfg81/hubitat-homeconnect/main/repository.json"
+		}			 
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
