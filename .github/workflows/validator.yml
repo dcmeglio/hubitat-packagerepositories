@@ -26,9 +26,6 @@ jobs:
       - uses: actions/checkout@v2
 
       # Runs a single command using the runners shell
-      - name: anyone-validate-json
-        uses: anyone-developer/anyone-validate-json@0.9.6
-        with:
-          file-extension: '.json'
-          read-path: '.'
+      - name: json-lint
+        uses: ocular-d/json-linter@0.0.2
 
