@@ -412,6 +412,10 @@
 		{
 			"name": "Simon Burke (Scruffy-SJB)",
 			"location": "https://raw.githubusercontent.com/scruffy-sjb/Hubitat_HPM/main/repository.json"
+		},
+		{
+			"name": "DarwinsDen",
+			"location": "https://raw.githubusercontent.com/DarwinsDen/Hubitat/master/repositories.json"
 		}	
 	],
 
