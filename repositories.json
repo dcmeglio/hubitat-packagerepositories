@@ -416,6 +416,10 @@
 		{
 			"name": "DarwinsDen",
 			"location": "https://raw.githubusercontent.com/DarwinsDen/Hubitat/master/repositories.json"
+		},
+		{
+			"name": "David LaPorte",
+			"location": "https://raw.githubusercontent.com/dlaporte/Hubitat/main/repository.json"
 		}	
 	],
 
