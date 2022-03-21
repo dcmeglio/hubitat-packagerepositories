@@ -309,17 +309,17 @@
 			"location": "https://raw.githubusercontent.com/droath/Hubitat/master/repository.json"
 		},
 				 
-    	{
-      		"name": "benevolent",
+		{
+			"name": "benevolent",
 			"location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/repository.json"
-    	},
-    	{
-      		"name": "ymerj",
-      		"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
-    	},
-    	{ 
-      		"name": "Jean P. May, Jr.",
-      		"location": "https://raw.githubusercontent.com/thebearmay/hubitat/main/thebearmayRepository.json"
+		},
+		{
+			"name": "ymerj",
+			"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
+		},
+		{ 
+			"name": "Jean P. May, Jr.",
+			"location": "https://raw.githubusercontent.com/thebearmay/hubitat/main/thebearmayRepository.json"
 		},
 		{
 			"name": "Michael van Dam",
@@ -333,7 +333,7 @@
 			"name": "Vincent van Didden (@Vincentiano)",
 			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
     		},
-   		 {
+    		{
 			"name": "Awth Wathje",
 			"location": "https://raw.githubusercontent.com/awthwathje/hubitat-heatit-z-push-button-8-driver/main/repository.json"
 		},
@@ -354,6 +354,18 @@
 			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/master/repository.json"
 		},
 		{
+			"name": "Minoston",
+			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/main/minoston/repository.json"
+		},
+		{
+			"name": "Evalogik",
+			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/main/evalogik/repository.json"
+		},
+		{
+			"name": "NewOne",
+			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/main/newone/repository.json"
+		},
+		{
 			"name": "Scott Barton (sab0276)",
 			"location": "https://raw.githubusercontent.com/sab0276/Hubitat/main/repository.json"
 		},
@@ -361,10 +373,10 @@
 			"name": "Raul Martin Rodriguez (luarmr)",
 			"location": "https://raw.githubusercontent.com/luarmr/hubitat/main/repository.json"
 		},
-    {
-      "name": "dacmanj",
+		{
+			"name": "dacmanj",
 			"location": "https://raw.githubusercontent.com/dacmanj/hubitat/main/repository.json"
-    },
+		},
 		{
 			"name": "Daniel Segall (dds82)",
 			"location": "https://raw.githubusercontent.com/dds82/hpm-master-manifest/main/repository.json"
@@ -373,7 +385,7 @@
 			"name": "Don Caton (dcaton)",
 			"location": "https://raw.githubusercontent.com/dcaton/Hubitat/main/repository.json"
 		},
-     {
+		{
 			"name": "kaimyn",
 			"location": "https://raw.githubusercontent.com/kaimyn/Hubitat/main/repository.json"
 		},	 
@@ -396,8 +408,8 @@
 		{
 			"name": "Eduardo Simioni",
 			"location": "https://raw.githubusercontent.com/esimioni/lutron-aurora-hubitat/main/hpm/repository.json"
-    },
-    {
+		},
+		{
 			"name": "kkossev",
 			"location": "https://raw.githubusercontent.com/kkossev/Hubitat/main/repository.json"
 		},
