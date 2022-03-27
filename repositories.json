@@ -420,7 +420,11 @@
 		{
 			"name": "David LaPorte",
 			"location": "https://raw.githubusercontent.com/dlaporte/Hubitat/main/repository.json"
-		}	
+		},
+		{
+			"name": "Samuel C Auclair",
+			"location": "https://raw.githubusercontent.com/sacua/SinopeDriverHubitat/main/repository.json"			
+		}
 	],
 
 	"hpm": {
