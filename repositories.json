@@ -424,6 +424,10 @@
 		{
 			"name": "Samuel C Auclair",
 			"location": "https://raw.githubusercontent.com/sacua/SinopeDriverHubitat/main/repository.json"			
+		},
+		{
+			"name": "Josh Rosenberg",
+			"location": "https://raw.githubusercontent.com/rosenbergj/hubitat-shabbat-and-chag/main/repository.json"
 		}
 	],
 
