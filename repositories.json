@@ -428,6 +428,10 @@
 		{
 			"name": "Josh Rosenberg",
 			"location": "https://raw.githubusercontent.com/rosenbergj/hubitat-shabbat-and-chag/main/repository.json"
+		},
+		{
+			"name": "Gary J. Milne",
+			"location": "https://github.com/GaryMilne/Hubitat-Tasmota/blob/main/packageManifest.json"
 		}
 	],
 
