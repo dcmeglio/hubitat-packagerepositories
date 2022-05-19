@@ -428,7 +428,11 @@
 		{
 			"name": "Josh Rosenberg",
 			"location": "https://raw.githubusercontent.com/rosenbergj/hubitat-shabbat-and-chag/main/repository.json"
-		}
+		},
+		{
+			"name": "Vyrolan iAqualink-Hubitat",
+			"location": "https://raw.githubusercontent.com/Vyrolan/iAqualink-Hubitat/main/repository.json"
+		}			 
 	],
 
 	"hpm": {
