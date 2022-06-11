@@ -428,6 +428,10 @@
 		{
 			"name": "Josh Rosenberg",
 			"location": "https://raw.githubusercontent.com/rosenbergj/hubitat-shabbat-and-chag/main/repository.json"
+		},
+		{
+			"name": "Terrel Allen",
+			"location": "https://raw.githubusercontent.com/terrelsa13/Device-Mirror-Plus/master/repository.json"
 		}
 	],
 
