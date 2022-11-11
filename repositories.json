@@ -1,5 +1,9 @@
 {
 	"repositories": [{
+			"name": "Andrew Webster",
+			"location": "https://raw.githubusercontent.com/Andywebs/hubitat/main/repository.json"
+		},
+		{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},
