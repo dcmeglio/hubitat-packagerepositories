@@ -543,6 +543,10 @@
 		{
 			"name": "Ken Washington",
 			"location": "https://raw.githubusercontent.com/kewashi/HubitatPackages/master/repository.json"
+		},
+		{
+			"name": "Jonathan Fields",
+			"location": "https://raw.githubusercontent.com/fieldsjm/Hubitat-2/master/repository.json"
 		}
 	],
 	"hpm": {
