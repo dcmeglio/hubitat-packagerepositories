@@ -273,10 +273,6 @@
 			"location": "https://raw.githubusercontent.com/drenze/hubitat/main/repository.json"
 		},
 		{
-			"name": "JVM (@jvm33)",
-			"location": "https://raw.githubusercontent.com/jvmahon/HubitatCustom/main/repository.json"
-		},
-		{
 			"name": "akhandok",
 			"location": "https://raw.githubusercontent.com/akhandok/adhanPlayer/master/repository.json"
 		},
@@ -599,6 +595,18 @@
 		{
 			"name": "Maxime Boissonneault",
 			"location": "https://raw.githubusercontent.com/mboisson/Hubitat/main/repository.json"
+		},
+		{
+			"name": "ShellyUSA",
+			"location": "https://raw.githubusercontent.com/ShellyUSA/Hubitat-Drivers/master/repository.json"
+		},
+		{
+			"name": "Jaime Botero",
+			"location": "https://raw.githubusercontent.com/ljbotero/hubitat-flair-vents/main/repository.json"
+		},
+		{
+			"name": "Adrian Caramaliu",
+			"location": "https://raw.githubusercontent.com/ady624/hubitat-hpm/master/repository.json"
 		}
 	],
 	"hpm": {
