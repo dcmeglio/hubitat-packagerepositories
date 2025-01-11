@@ -145,10 +145,6 @@
 			"location": "https://raw.githubusercontent.com/joelwetzel/HubitatPackages/master/repository.json"
 		},
 		{
-			"name": "Kurt Sanders (kurtsanders)",
-			"location": "https://raw.githubusercontent.com/KurtSanders/HubitatPackages/master/repository.json"
-		},
-		{
 			"name": "Jo Rhett",
 			"location": "https://raw.githubusercontent.com/jorhett/Hubitat/master/repository.json"
 		},
@@ -647,7 +643,15 @@
 		{
 			"name": "Evan Callia",
 			"location": "https://raw.githubusercontent.com/evcallia/hubitat/refs/heads/main/hpm-repository.json"
-		}		
+		},
+		{
+			"name": "Kurt Sanders (kurtsanders)",
+			"location": "https://raw.githubusercontent.com/KurtSanders/HubitatPackages/master/repository.json"
+		},
+		{
+			"name": "StarkTemplar",
+			"location": "https://raw.githubusercontent.com/StarkTemplar/Hubitat/main/repository.json"
+		}	
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"
