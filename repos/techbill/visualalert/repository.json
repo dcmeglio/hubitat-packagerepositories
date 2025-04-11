@@ -1,0 +1,20 @@
+{
+  "author": "Bill Fleming (techbill@protonmail.com)",
+  "gitHubUrl": "https://github.com/TechBill",
+  "paypalUrl": "https://paypal.me/techbill?country.x=US&locale.x=en_US",
+  "packages": [
+    {
+      "name": "VisualAlert",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/TechBill/visualalert/main/manifest.json",
+      "description": "Advanced visual notification system optimized for deaf and hard of hearing users.",
+      "tags": [
+        "Accessibility",
+        "Smart Lighting",
+        "Notification",
+        "Visual Alerts",
+        "Security"
+      ]
+    }
+  ]
+}
