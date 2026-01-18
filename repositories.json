@@ -749,9 +749,26 @@
 			"location": "https://raw.githubusercontent.com/pharrison5/Hubitat/refs/heads/main/repository.json"
 		},
 		{
-			"name": "truittchris",
-			"location": "https://raw.githubusercontent.com/truittchris/he_ical_switch/main/repository.json"
-		},
+  "name": "truittchris",
+  "location": "https://raw.githubusercontent.com/truittchris/hubitat_calendar_switch_for_google_and_outlook/main/hpm/repository.json"
+},
+{
+  "name": "truittchris",
+  "location": "https://raw.githubusercontent.com/truittchris/hubitat_calendar_switch_ical/main/repository.json"
+},
+{
+  "name": "truittchris",
+  "location": "https://raw.githubusercontent.com/truittchris/hubitat_alexa_routine_trigger_driver_only/main/hpm/repository.json"
+},
+{
+  "name": "truittchris",
+  "location": "https://raw.githubusercontent.com/truittchris/hubitat_alexa_routine_trigger/main/hpm/repository.json"
+},
+{
+  "name": "truittchris",
+  "location": "https://raw.githubusercontent.com/truittchris/hubitat_meross_mini_plug_driver/main/hpm/repository.json"
+},
+
 		{
     			"name": "signal15",
     			"location": "https://raw.githubusercontent.com/signal15/tuya-minisplit-hubitat/main/repository.json"
