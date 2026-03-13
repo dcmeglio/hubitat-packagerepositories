@@ -1,8 +1,7 @@
 See also: https://hubitatpackagemanager.hubitatcommunity.com/ for the latest documentation.
 
-# HubitatPackageManager
-The Hubitat Package Manager repository has moved to:<br>
-https://github.com/HubitatCommunity/hubitatpackagemanager 
-## Please make Push Requests (PR) at the replacement repo. 
+# The contents of this repo have moved to 
+https://github.com/HubitatCommunity/hubitatpackagemanager
+## and all Pull Requests, etc. should be made there. This repo remains for historical reasons only.
+## Please don't use any of the links below, since they are not maintained.
 
-This repo is not watched.
