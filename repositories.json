@@ -810,7 +810,7 @@
 		},
 		{
 			"name": "Ultrasmart.pl",
-			"location": "https://raw.githubusercontent.com/MarioHudds/Hubitat-Hub-Monitor/refs/heads/main/repository.json"
+			"location": "https://raw.githubusercontent.com/MarioHudds/Hubitat-Hub-Monitor/refs/heads/main/packageManifest.json"
 		},
 		{
 			"name": "Roger Noia (rnoia)",
@@ -821,8 +821,8 @@
 			"location": "https://raw.githubusercontent.com/thaeropath/Hubitat_Ring_Integration/main/repository.json"
 		},
 		{
-			"name": "waterboysh",
-			"location": "https://raw.githubusercontent.com/waterboysh/hubitat/main/repository.json"
+			"name": "zshenker",
+			"location": "https://raw.githubusercontent.com/zshenker/hubitat-homeseer-ps100/main/repository.json"
 		}
 	],
 	"hpm": {
