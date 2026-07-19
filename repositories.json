@@ -847,6 +847,10 @@
 		{
 			"name": "evdev",
 			"location": "https://raw.githubusercontent.com/evdev/hubitat-modern-dashboard/master/hubitat/repository.json"
+		},
+		{
+			"name": "Gordon Thelander",
+			"location": "https://raw.githubusercontent.com/GordonThelander/hubitat-LIFX-Light-Manager/main/repository.json"
 		}
 	],
 	"hpm": {
